@@ -6,8 +6,8 @@ Esta es mi solución al [desafío de la tarjeta de vista previa de blog en Front
 
 ### Captura de pantalla 📸
 
-![Escritorio](./screenshot-desktop.jpg)
-![Móvil](./screenshot-mobile.jpg)
+![Escritorio](./screenshot-desktop.png)
+![Móvil](./screenshot-mobile.png)
 
 ### Enlaces 🔗
 
